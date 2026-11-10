@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["DPD", "PBP", "DPD"],
+  "key": {
+    "D": { "item": "minecraft:dragon_breath" },
+    "P": { "item": "minecraft:paper" },
+    "B": { "item": "minecraft:book" }
+  },
+  "result": { "item": "dragonbound:dragon_codex", "count": 1 }
+}
